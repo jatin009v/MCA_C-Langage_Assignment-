@@ -1,0 +1,1 @@
+//3. Write a C program to check whether a triangle is Equilateral, Isosceles or Scalene.

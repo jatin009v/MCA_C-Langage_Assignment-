@@ -1,0 +1,1 @@
+//12. Write a C program that prompts the user to enter a positive integer.

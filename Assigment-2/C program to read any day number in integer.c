@@ -1,0 +1,2 @@
+//6. Write a C program to read any day number in integer and display the day name in word format.
+//Write a program in C to read any Month Number in integer and display the number of days for this month.
